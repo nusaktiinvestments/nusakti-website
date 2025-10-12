@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Nusakti Investments — Bridging Global Capital & National Opportunities</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <div class="logo-placeholder">NUSAKTI</div>
+        <div class="brand-text">
+          <div class="company-name">Nusakti Investments</div>
+          <div class="tagline">Bridging Global Capital & National Opportunities</div>
+        </div>
+      </div>
+      <nav class="nav">
+        <a href="#about">About</a>
+        <a href="#vision">Vision</a>
+        <a href="#business">Core Business</a>
+        <a href="#network">Network</a>
+        <a href="#contact">Contact</a>
+        <a class="btn-primary" href="investor.html">Investor Relations</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="hero" class="hero">
+      <div class="container hero-inner">
+        <h1>Bridging Global Capital & National Opportunities</h1>
+        <p>We are Nusakti Investments — a strategic investment facilitator connecting international investors with verified financial institutions and corporate partners across Indonesia.</p>
+        <div class="hero-ctas">
+          <a class="btn-primary" href="investor.html">Investor Relations</a>
+          <a class="btn-secondary" href="#contact">Contact Us</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="section fade-in">
+      <div class="container">
+        <h2>About Nusakti Investments</h2>
+        <p>Nusakti Investments (PT. Paramananda Perisai Nusantara) is a Jakarta-based strategic holding focused on facilitating institutional partnerships and structuring viable investment opportunities in Indonesia. We provide project alignment, institutional coordination, and local expertise to ensure compliance and value creation.</p>
+      </div>
+    </section>
+
+    <section id="vision" class="section fade-in">
+      <div class="container">
+        <h2>Vision & Mission</h2>
+        <h3>Vision</h3>
+        <p>To become a trusted strategic partner that bridges local enterprises and global investors, fostering sustainable growth and national economic empowerment.</p>
+        <h3>Mission</h3>
+        <ul>
+          <li>Build collaborative ecosystems across sectors and generations.</li>
+          <li>Serve as a reliable bridge for international investors seeking Indonesian opportunities.</li>
+          <li>Promote transparency, good governance and regulatory alignment.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="business" class="section fade-in">
+      <div class="container">
+        <h2>Core Business</h2>
+        <div class="cards">
+          <div class="card"><h4>Strategic Investment Facilitation</h4><p>Structuring deals, coordinating institutional engagements, and project readiness support.</p></div>
+          <div class="card"><h4>Nusakti Holdings</h4><p>Portfolio oversight and partnership management across manufacturing, retail and agribusiness.</p></div>
+          <div class="card"><h4>Nusakti Studio</h4><p>Corporate design, communication and investor-ready collateral.</p></div>
+          <div class="card"><h4>Nusakti Farms & Retail</h4><p>Food production, logistics and retail distribution networks.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="network" class="section fade-in">
+      <div class="container">
+        <h2>Strategic Network</h2>
+        <p>Nusakti Investments maintains active coordination with Bank Muamalat Indonesia and other national banks through strategic-level communication with each institution’s top management. This network allows us to facilitate structured collaborations between global investors and Indonesia’s financial ecosystem.</p>
+      </div>
+    </section>
+
+    <section id="contact" class="section fade-in">
+      <div class="container">
+        <h2>Contact</h2>
+        <p>PT. Paramananda Perisai Nusantara (Nusakti Investments)</p>
+        <p>Tower B 3rd Floor, 18 Parc Place SCBD, Jl. Jend. Sudirman Kav. 52-53, Senayan, Kebayoran Baru, Jakarta 12190, Indonesia</p>
+        <p>Phone: +62 21 5080 4747 | Email: <a href="mailto:natasha@nusatex.com">natasha@nusatex.com</a></p>
+        <p>For investor inquiries, please visit <a href="investor.html">Investor Relations</a>.</p>
+      </div>
+    </section>
+
+    <footer class="site-footer">
+      <div class="container">
+        <div>© 2025 Nusakti Investments — All rights reserved</div>
+        <div>Registered in Indonesia</div>
+      </div>
+    </footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Investor Relations — Nusakti Investments</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <div class="logo-placeholder">NUSAKTI</div>
+        <div class="brand-text">
+          <div class="company-name">Nusakti Investments</div>
+          <div class="tagline">Strategic Investment Facilitator</div>
+        </div>
+      </div>
+      <nav class="nav">
+        <a href="index.html#about">About</a>
+        <a href="index.html#business">Core Business</a>
+        <a href="index.html#contact">Contact</a>
+        <a class="btn-primary" href="index.html">Home</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="section container">
+    <h1>Investor Relations</h1>
+    <p>We welcome institutional dialogues and structured investment discussions. To maintain confidentiality and proper process, we request interested parties to complete the following steps:</p>
+    <ol>
+      <li>Send an official email from a corporate address with a brief Statement of Purpose (SoP) outlining your visit or investment intent.</li>
+      <li>Upon receipt, we will provide a short non-disclosure template and arrange a preliminary call.</li>
+      <li>For formal visits involving government-level introductions, an SoP is required for protocol arrangements.</li>
+    </ol>
+
+    <h3>Download: Company Profile (for reference)</h3>
+    <p><a href="Nusakti_Company_Profile_Bilingual.pdf" download>Download Company Profile (PDF)</a></p>
+
+    <h3>Contact for Investors</h3>
+    <p>Natasha Donalda<br/>Executive Director<br/>Email: <a href="mailto:natasha@nusatex.com">natasha@nusatex.com</a></p>
+
+    <p style="margin-top:2rem;"><a class="btn-primary" href="index.html">Back to Home</a></p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div>© 2025 Nusakti Investments</div>
+    </div>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+:root{
+  --navy:#0B2545;
+  --gold:#D4AF37;
+  --muted:#6b7280;
+  --bg:#ffffff;
+}
+*{box-sizing:border-box}
+body{font-family:Inter, Arial, sans-serif; margin:0; color:var(--navy); background:var(--bg); line-height:1.6}
+.container{max-width:1000px; margin:0 auto; padding:2rem}
+.site-header{position:sticky; top:0; background:rgba(255,255,255,0.95); border-bottom:1px solid #eee; z-index:50}
+.header-inner{display:flex; align-items:center; justify-content:space-between}
+.brand{display:flex; align-items:center; gap:1rem}
+.logo-placeholder{background:var(--navy); color:#fff; font-weight:700; padding:10px 14px; border-radius:6px}
+.company-name{font-weight:700; font-size:18px}
+.tagline{font-size:12px; color:var(--muted)}
+.nav a{margin-left:14px; text-decoration:none; color:var(--navy); font-size:14px}
+.btn-primary{background:var(--navy); color:#fff; padding:10px 14px; border-radius:6px; text-decoration:none; margin-left:8px}
+.btn-secondary{border:1px solid var(--navy); color:var(--navy); padding:10px 14px; border-radius:6px; text-decoration:none}
+.hero{padding:6rem 0; background:linear-gradient(180deg, rgba(11,37,69,0.03), rgba(11,37,69,0.00)); display:flex; align-items:center}
+.hero h1{font-size:28px; margin-bottom:0.5rem}
+.hero p{color:var(--muted); max-width:760px}
+.section{padding:3.5rem 0}
+.cards{display:grid; grid-template-columns:repeat(auto-fit, minmax(220px,1fr)); gap:16px; margin-top:1rem}
+.card{border:1px solid #eee; padding:16px; border-radius:8px; background:#fff}
+.site-footer{padding:2rem 0; border-top:1px solid #f0f0f0; color:var(--muted); text-align:center}
+.fade-in{opacity:0; transform:translateY(10px); transition:all 0.7s ease-out}
+.fade-in.visible{opacity:1; transform:none}
+a{color:var(--navy)}
+@media(max-width:700px){
+  .header-inner{flex-direction:column; gap:12px; padding:10px}
+  .nav{display:flex; gap:8px; flex-wrap:wrap}
+  .hero h1{font-size:22px}
+}
